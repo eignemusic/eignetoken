@@ -11,4 +11,5 @@ This is the future of the music industry, we are building a platform that will a
 
 The freeze and mint authority are both disabled for the token. There are no specific breakdowns for allotments for the EigneToken. 100% of the tokens can and will be used for various things at various times. If there is ever a need to be more specific and have a rigid breakdown of the token, that can be added at a later date.All transaction on the platform will use the native eigne token $EIT
 
+## TOKENOMICS
 ![image](https://user-images.githubusercontent.com/92245531/146042325-2c0b4c4d-39d7-426d-8a6a-bdba4b6315b3.png)
